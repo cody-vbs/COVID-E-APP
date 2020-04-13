@@ -1,2 +1,2 @@
 # COVID-E-APP
-License under [MIT License](LICENSED).
+License under [MIT License](LICENSED)
