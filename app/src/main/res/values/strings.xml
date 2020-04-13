@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">COVID E-APP</string>
+    <string name="desc">As Corona Virus also known as COVID19 is spreading across the world causing a lot of people being infected and some died. I decided to make this application to help people educate about the root cause and how to prevent this kind of virus. Because with proper education we can help stop and survive this type of crisis.
+</string>
+    <string name="quote">\" Life always waits for some crisis to occur \nbefore revealing itself at its most brilliant \"</string>
+    <string name="knowledge_is_weapon">\"KNOWLEDGE IS WEAPON\"</string>
+</resources>
